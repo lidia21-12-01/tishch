@@ -85,7 +85,7 @@ class ElectricCar extends Car {
     }
 }
 
-// Самый низкий уровень: такси (подобие "коровы" в запросе)
+// Самый низкий уровень: такси
 class Taxi extends Car {
     private String taxiCompany;   // название таксопарка
     private boolean isOnDuty;     // работает ли сейчас
